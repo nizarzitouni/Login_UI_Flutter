@@ -1,16 +1,10 @@
 # flutter_responsice_login_ui
 
-A new Flutter project.
+A login ui using flutter 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens:
+ 
+ <p align="center">
+    <img src="https://github.com/nizarzitouni/Login_UI_Flutter/blob/master/screens/phone_ui.PNG?raw=true" width="250"/>
+  <img src="https://github.com/nizarzitouni/Login_UI_Flutter/blob/master/screens/desktop_ui.PNG?raw=true"/>
+</p>
